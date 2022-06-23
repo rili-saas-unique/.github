@@ -2,7 +2,7 @@
   
 **uniQue** - SaaS starter kit, foundation for your **business**
 
-Connect with us via <a href="https://www.linkedin.com/company/rili-saas/" target="_blank">linkedin</a> ornd us an [email](mailto:sleuths_network0u@icloud.com).
+Connect with us via <a href="https://www.linkedin.com/company/rili-saas/" target="_blank">linkedin</a> ornd us an [email](mailto:team0rili.be).
   
 ### who Use uniQue?
   
