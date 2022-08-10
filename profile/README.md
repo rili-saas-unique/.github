@@ -4,7 +4,7 @@
 
 Connect with us via <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> ornd us an [email](mailto:team0rili.be).
 
-**Get a head start on your next project**
+**Get a head start on your next project**<br />
 Save months of development time and build faster
   
 ### who Use uniQue?
