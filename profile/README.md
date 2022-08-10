@@ -21,5 +21,5 @@ We’re serious about creating amazing solutiOns
 
 
 **Get a head start on your next project**
-Save months of development time and build faster
 
+Save months of development time and build faster
