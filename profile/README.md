@@ -6,6 +6,8 @@ Connect with us via <a href="https://www.linkedin.com/company/rilisaas/" target=
 
 **Get a head start on your next project**<br />
 Save months of development time and build faster
+
+#### With monthly maintenance costs close to **Zero**
   
 ### who Use uniQue?
   
