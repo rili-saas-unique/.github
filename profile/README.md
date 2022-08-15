@@ -7,7 +7,7 @@ Connect with us via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5c
 **Get a head start on your next project**<br />
 Save months of development time and build faster
 
-#### With monthly maintenance costs close to **Zero**
+#### With auto-scaling and monthly maintenance costs close to **Zero**
   
 ### who Use uniQue?
   
